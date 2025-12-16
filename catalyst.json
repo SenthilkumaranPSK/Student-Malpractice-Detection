@@ -1,0 +1,19 @@
+{
+    "defaults": {
+        "project": {
+            "name": "ExamGuard",
+            "description": "AI-Powered Exam Proctoring System"
+        }
+    },
+    "services": {
+        "web": {
+            "type": "python",
+            "runtime": "python3.9",
+            "build_command": "pip install -r requirements.txt",
+            "start_command": "gunicorn -b 0.0.0.0:$PORT main:app",
+            "environment": {
+                "FLASK_ENV": "production"
+            }
+        }
+    }
+}

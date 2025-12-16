@@ -1,0 +1,22 @@
+{
+    "object_detection": {
+        "enabled": true,
+        "confidence_min": 0.55
+    },
+    "gaze_detection": {
+        "enabled": true,
+        "threshold_seconds": 3.0,
+        "sensitivity": 0.8
+    },
+    "pose_detection": {
+        "enabled": true,
+        "hand_near_head_threshold_seconds": 2.0
+    },
+    "gesture_detection": {
+        "enabled": true
+    },
+    "multiple_people_detection": {
+        "enabled": true,
+        "max_people": 1
+    }
+}
