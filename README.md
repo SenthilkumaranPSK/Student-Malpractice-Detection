@@ -9,8 +9,6 @@
 
 **Secure your online exams with cutting-edge AI technology**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge)](https://student-malpractice-detection.onrender.com)
-
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
 
 </div>
