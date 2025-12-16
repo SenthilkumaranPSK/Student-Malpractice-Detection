@@ -6,12 +6,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-green?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.0-black?style=for-the-badge&logo=flask)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-AI-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 **Secure your online exams with cutting-edge AI technology**
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-success?style=for-the-badge)](https://student-malpractice-detection.onrender.com)
-[![Deploy to Render](https://img.shields.io/badge/Deploy_to-Render-46E3B7?style=for-the-badge&logo=render)](https://render.com/deploy?repo=https://github.com/SenthilkumaranPSK/Student-Malpractice-Detection)
 
 [Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Documentation](#-documentation)
 
@@ -281,14 +279,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-- 📧 Email: support@examguard.com
-- 💬 Discord: [Join our community](https://discord.gg/examguard)
-- 📖 Documentation: [docs.examguard.com](https://docs.examguard.com)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/exam-guard/issues)
-
----
 
 ## 🌟 Star History
 
@@ -296,10 +286,3 @@ If you find this project useful, please consider giving it a ⭐!
 
 ---
 
-<div align="center">
-
-**Made with ❤️ for education**
-
-[Website](https://examguard.com) • [Documentation](https://docs.examguard.com) • [Blog](https://blog.examguard.com)
-
-</div>
